@@ -1,0 +1,42 @@
+body{
+    background-color: rgba(255, 248, 242, 1)
+}
+h1, h2, h3, h5, h6{
+   color: #000;
+   font-size: 15px;
+}
+h4{
+   color: rgba(112, 112, 112, 1);
+   font-size: 14px;
+}
+img{
+   float: left;
+   border-radius: 50px;
+}
+a{
+   color: red;
+}
+.logo-head-container{
+   padding-top: 17px;
+   padding-bottom: 17px;
+}
+.tweet{
+   background-color: #FFFFFF;
+   font-size: 14px;
+   border-radius: 4px;
+   box-shadow: rgba(193, 47, 47, 0.16) 0px 3px 6px; 
+   padding: 30px;
+}
+.tweet span{
+   float:  right;
+    background-color: rgba(255, 59, 0, 1);
+    padding: 5px;
+    border-radius: 4px;
+    color: white;
+}
+.tweet-one{
+   margin-top: 156px;
+}
+.three{
+   margin-top: 156px
+}
