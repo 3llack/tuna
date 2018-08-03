@@ -28,7 +28,7 @@ a{
    padding: 30px;
 }
 .tweet span{
-   float:  right;
+    float:  right;
     background-color: rgba(255, 59, 0, 1);
     padding: 5px;
     border-radius: 4px;
